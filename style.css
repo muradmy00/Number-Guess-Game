@@ -1,0 +1,83 @@
+*{
+    font-family: Helvetica;
+}
+
+body{
+
+    background-color: rgb(74, 163, 139);
+    
+}
+
+#myh1{
+    display: block;
+    text-align: center;
+    background-color: rgb(70, 144, 144);
+    border: 5px solid #44b5c9;
+    margin: 20px  auto;
+    height: 40px;
+    width: 350px;
+     color: #fff;
+
+}
+
+#container{
+    display: block;
+    text-align: center;
+    padding: 20px;
+    height: 150px;
+    width: 250px;
+    margin: auto;
+    border: 3px solid #44b5c9;
+    background-color: rgb(70, 144, 144);
+}
+
+#mybutton{
+
+    padding: 5px 10px ;
+    color: #fff;
+    background-color: rgb(70, 144, 144);
+    font-weight: 700;
+    border-radius: 10px;
+    border: 5px solid #44b5c9;
+    cursor: pointer;
+    transition: background-color 0.545s;
+}
+
+#mybutton:hover{
+
+    background-color: rgb(86, 193, 193);;
+}
+
+.mylabel{
+
+    color: #fff;
+    font-weight: 700;
+}
+
+#myinput{
+    color: #000;
+    background-color: #ffffff;
+    border: 5px solid #44b5c9;
+    border-radius: 10px;
+    padding: 10px;
+    transition: background-color 0.545s;
+
+}
+
+#myinput:hover{
+
+    background-color:rgb(120, 76, 84);
+    color: #fff;
+}
+
+
+#container2{
+    display: block;
+    text-align: center;
+    padding: 20px;
+    height: 150px;
+    width: 250px;
+    margin: 20px auto;
+    border: 3px solid #ff00f7;
+    background-color: rgb(250, 33, 116);
+}
